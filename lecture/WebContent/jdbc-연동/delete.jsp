@@ -6,7 +6,7 @@
 
 	//연결 정보와 SQL
 	String url = "jdbc:oracle:thin:@localhost:1521/xepdb1";
-	String user = "JINSOOK";
+	String user = "JSP";
 	String passwd = "1111";
 	
 	//1. DB 연동 드라이버 로드
